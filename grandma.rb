@@ -15,7 +15,7 @@
 def speak_to_grandma (phrase="I LOVE YOU GRANDMA!")
   if phrase == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
-  else phrase == phrase
+  elsif phrase == phrase
     return "HUH?! SPEAK UP, SONNY!"
   else
     return "NO, NOT SINCE 1938!"
